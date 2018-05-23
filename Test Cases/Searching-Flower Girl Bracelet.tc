@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Searching-Flower Girl Bracelet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>055a2345-f53a-4e74-a730-2842a43a5208</testCaseGuid>
+   <variable>
+      <defaultValue>'Flower Girl Bracelet'</defaultValue>
+      <description></description>
+      <id>315364d5-6be9-4d53-ad78-c52588a313df</id>
+      <masked>false</masked>
+      <name>searchflowergirl</name>
+   </variable>
+</TestCaseEntity>

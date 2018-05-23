@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3074d705-50d1-47c6-bb53-21871708d726</testCaseGuid>
+   <variable>
+      <defaultValue>'gender-male'</defaultValue>
+      <description></description>
+      <id>29e3f56a-c7e9-4e08-8e59-1df941110b25</id>
+      <masked>false</masked>
+      <name>genderoption</name>
+   </variable>
+   <variable>
+      <defaultValue>'george'</defaultValue>
+      <description></description>
+      <id>53240799-d6a9-4b9e-b264-575010916480</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'njau'</defaultValue>
+      <description></description>
+      <id>a217ea22-f9bc-4595-a159-c7d7cd516460</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'georgezzz@gmail.com'</defaultValue>
+      <description></description>
+      <id>1068a392-962b-4572-ae63-aef862e2e538</id>
+      <masked>false</masked>
+      <name>inputemail</name>
+   </variable>
+   <variable>
+      <defaultValue>'tezza solutions'</defaultValue>
+      <description></description>
+      <id>af8de0f4-35a8-4cb4-90fe-27fc45595ffc</id>
+      <masked>false</masked>
+      <name>inputcompanydetails</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>b7cbb9d2-17ca-42e0-bfd9-9d06a08295be</id>
+      <masked>false</masked>
+      <name>inputpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>16cf595a-3750-47b6-b3da-068904b1fd4f</id>
+      <masked>false</masked>
+      <name>confirmpassword</name>
+   </variable>
+</TestCaseEntity>

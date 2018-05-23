@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Searching-NokiaLumiaand Adding to Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5cef158-a61a-4716-b89a-aa0276bb11a7</testCaseGuid>
+   <variable>
+      <defaultValue>'nokia lumia 1020'</defaultValue>
+      <description></description>
+      <id>85004b79-1663-4a71-9219-59723aae163b</id>
+      <masked>false</masked>
+      <name>serarchnokialumia</name>
+   </variable>
+</TestCaseEntity>
