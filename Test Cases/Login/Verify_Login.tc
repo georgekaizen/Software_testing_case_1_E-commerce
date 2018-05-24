@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f892bf64-80ad-41bc-8a42-5149e731f2ea</testCaseGuid>
+   <variable>
+      <defaultValue>'georgezzz@gmail.com'</defaultValue>
+      <description></description>
+      <id>61952106-dbd8-464c-a40f-ee21bdd6d844</id>
+      <masked>false</masked>
+      <name>loginemail</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>199ebfe7-c64f-49b7-9cd1-164dc4f0f3d0</id>
+      <masked>false</masked>
+      <name>loginpassword</name>
+   </variable>
+</TestCaseEntity>

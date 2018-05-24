@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Login'), [('loginemail') : 'georgezz@gmail.com', ('loginpassword') : '1234567890'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Login/Verify_Login'), [('loginemail') : 'georgezz@gmail.com', ('loginpassword') : '1234567890'], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Searching-adding to cart flower girl bracelet/Input-Search'), searchflowergirl)
 

@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.callTestCase(findTestCase('Login'), [('loginemail') : 'georgezzz@gmail.com', ('loginpassword') : '1234567890'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Login/Verify_Login'), [('loginemail') : 'georgezzz@gmail.com', ('loginpassword') : '1234567890'], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.delay(2)
 
